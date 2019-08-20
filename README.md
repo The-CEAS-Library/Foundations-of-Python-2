@@ -1,5 +1,5 @@
 # Introduction_to_Python_Part2
-Second workshop in a series of five workshops.
+Second workshop in a series of five Python workshops.
 
 ### Introduction to Python
 
