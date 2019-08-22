@@ -14,4 +14,4 @@ Building on topics of the "Introduction to Python Part 1" workshop. Basic knowle
 * **Helpful hints & resources**
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ken7gh/Introduction_to_Python_Part2.git/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CEASLIBRARY/Introduction_to_Python_Part2.git/master)
