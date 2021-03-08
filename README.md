@@ -1,5 +1,7 @@
 # Introduction_to_Python_Part2
-Second workshop in a series of five Python workshops.
+Second workshop in a series of five Python workshops.<br/>
+<br/>
+Note: Please click **'launch binder'**, present at the bottom of the page, to launch the Binder.
 
 Building on topics of the "Introduction to Python Part 1" workshop. Basic knowledge of Python or attendance at the "Introduction to Python Part 1" beginner's workshop is strongly recommended.
 
