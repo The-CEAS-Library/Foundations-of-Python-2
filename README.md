@@ -13,7 +13,7 @@ Building on topics of the "Introduction to Python Part 1" workshop. Basic knowle
 
 * **Helpful hints & resources**
 
-**Note**: Please click **'launch binder'** button below to launch the Binder. A Binder is an interactive environment that allows you to run code in the web browser without the need for any installations.
+**Note**: Please click **'launch binder'** button below to launch the Binder. A Binder is an interactive environment that allows you to run code in the web browser without any need for installations.
 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CEASLIBRARY/Introduction_to_Python_Part2.git/master)
