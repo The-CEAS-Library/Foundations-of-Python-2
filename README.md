@@ -17,3 +17,5 @@ Building on topics of the "Introduction to Python Part 1" workshop. Basic knowle
 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CEASLIBRARY/Introduction_to_Python_Part2.git/master)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/CEASLIBRARY/Introduction_to_Python_Part2)
