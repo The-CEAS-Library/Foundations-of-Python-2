@@ -1,5 +1,4 @@
 # Foundations of Python 2
-Second workshop in a series of five Python workshops.
 
 Building on topics of the "Foundations of Python 1" workshop. Basic knowledge of Python or attendance at the "Foundations of Python 1" beginner's workshop is strongly recommended.
 
